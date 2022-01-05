@@ -1,0 +1,4 @@
+name: '2022-01-04'
+channels:
+  - defaults
+prefix: /home/smill/anaconda3/envs/2022-01-04
